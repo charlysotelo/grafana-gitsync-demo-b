@@ -11,7 +11,7 @@
       "type": "text",
       "title": "Greeting",
       "gridPos": { "h": 8, "w": 24, "x": 0, "y": 0 },
-      "options": { "mode": "markdown", "content": "# 🌎 Hello World from **repo B**" }
+      "options": { "mode": "markdown", "content": "# 🌎 Hello World from **repo B** AFTER A NEW COMMIT!!!" }
     }
   ]
 }
